@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-mkdir -p /opt/butler/bin 
+mkdir -p /opt/butler/bin
 cd /opt/butler/bin
 
 wget -O butler.zip https://broth.itch.ovh/butler/linux-amd64/LATEST/archive/default

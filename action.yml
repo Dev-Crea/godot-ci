@@ -4,6 +4,6 @@ author: aBarichello
 branding:
   color: gray-dark
   icon: git-merge
-runs: 
+runs:
   using: 'docker'
   image: 'docker://barichello/godot-ci'
